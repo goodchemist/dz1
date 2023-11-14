@@ -1,5 +1,5 @@
 def str_upper(value):
-    """upper"""
+    """upper letters in word"""
     return value.upper()
 
 
