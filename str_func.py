@@ -3,6 +3,6 @@ def str_upper(value):
     return value.upper()
 
 
-def str_title(words):
+def str_title(sentences):
     """upper only first letters in words"""
-    return words.title()
+    return sentences.title()
